@@ -39,24 +39,38 @@
     },
     {
       "id": 4,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 16.0,
+      "img": "https://i.ibb.co/djbw6LV/x-burgue.png"
+    },
+    {
+      "id": 5,
       "name": "Fanta Guaraná",
       "category": "Bebidas",
       "price": 5.0,
       "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Coca",
       "category": "Bebidas",
       "price": 4.99,
       "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "Milkshake",
       "category": "Bebidas",
       "price": 4.99,
       "img": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png"
+    },
+    {
+      "id": 6,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99,
+      "img": "https://i.ibb.co/fxCGP7k/coca-cola.png"
     }
   ]
 }
